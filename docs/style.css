@@ -3,6 +3,13 @@ body, html {
   padding: 0;
 }
 
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
 video {
   position: absolute;
   top: 50%;
